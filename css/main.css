@@ -1,0 +1,107 @@
+ /* GENERAL */
+
+ body {
+
+ 	font-family: 'Roboto';
+ 	line-height:1.4;
+ 	color: #212121;
+
+ }
+
+ /* HEADER */
+header{
+	padding: 1.5rem 5%;
+	background-color: #ffb300;
+	background-image: url(../img/tileable_wood_texture.png);
+}
+
+.logo h1 {
+	font-family: 'Oswald';
+	font-size: 2.5rem;
+	color: #ffffff ;
+}
+
+.menu a {
+	color: #ffffff;
+	text-decoration: underline;
+	font-family: 'Roboto';
+}
+
+
+/* MAIN CONTENT */
+
+main{
+	padding: 3rem 5%;
+}
+
+main h1{
+
+}
+
+main h2{
+
+
+}
+
+main h3{
+
+
+}
+
+main h4{
+
+
+}
+
+p{
+
+}
+
+li{
+
+
+}
+
+
+/* COLUMN LEFT */
+.col-left img{
+	width: 100%;
+}
+
+
+/* INNER COLUMN */
+
+
+/* COLUMN RIGHT */
+
+
+/* INGREDIENTS LIST */
+
+.ingredients li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.ingredients li{
+	padding: .5rem 0;
+	border-top: 1px dotted #BDBDBD;
+}
+
+/* FOOTER */
+
+footer {
+	padding: 1.5rem 5%;
+	background-color: #BDBDBD
+}
+
+footer p{
+	margin: 0;
+	color: #757575;
+}
+
+footer a{
+	text-decoration: underline;
+	font-family: 'Roboto';
+	color: #ffffff;
+	background-color: #757575;
+}
